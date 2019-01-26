@@ -1,27 +1,25 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+title: The Red Door
+date: 2019-01-24T15:04:10.000Z
+description: >-
+  The Red Door" and "Behind The Red Door" are two paintings that were painted
+  simultaneously. In fact, many of the paper palettes used in painting "The Red
+  Door" were incorporated into "Behind The Red Door".
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+![The Red Door](/img/thereddoor.jpg)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+  "The Red Door" is symbolic of consciousness, space and time and the 'so-called'  realism of the human exterior life. It is a painting that tells the story of three generations and how they pass through space and time. This painting was painted from a 'walk-by' photo taken by the artist in Tetuan, Morocco and was rendered to the canvas unaltered. Every detail in the painting was in the photograph. 
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+  In the painting we see three generations of Moroccan females sitting on their porch stoop in front of a red painted door. 
 
-## The little secrets of Chemex brewing
+  The youngest is unwrapping a piece of candy. The artist rendered her as an unfinished portrait simply because she is developing her life and 'unwrapping' her personality. Behind her is a simple line caused by an unpainted section of the door. This line represents her personal growth line, much like we stand our kids in front of a door jamb and mark their height every year or so. 
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+\
+   The young girls mother is on her left rolling a plant stem through her fingers...probably to use in weaving a basket or mat. The mother is meticulously painted by the artist to show that she is in the prime of her life. Behind her we see a rectangular patch of stucco that represents the completeness of her life. We see the growth line half used. There is a line that represents her marriage, one that represents her motherhood and perhaps the other represents her psychological maturity or inner growth. The point being that she is whole and in her prime.
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
-
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+\
+  The young girls grandmother sits on her right. She use to be colorful, but now she has faded. She is past her prime. The aura behind her is also diminished. She is no longer whole and the lines that are left form a cross through her head implying her impending death.
