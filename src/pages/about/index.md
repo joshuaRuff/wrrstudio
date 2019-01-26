@@ -2,7 +2,7 @@
 templateKey: about-page
 title: MEET WAYNE RUFF
 ---
-![wayne profile picture](/img/img_5907_jpg.jpg)
+![wayne profile picture](/img/about.jpg)
 
 Art is not about capturing the materialistic side of a subject, it's about capturing the unseen part of the subject. The essence, the emotional, the intellectual; the spirit and soul of the matter is what I'm trying to capture.
 
