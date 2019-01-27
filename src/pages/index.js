@@ -1,6 +1,6 @@
 import React from 'react'
 import Layout from '../components/Layout'
-import AboutImage from '../../static/img/about.jpg'
+import AboutImage from '../img/about.jpg'
 
 const AboutPage = () => (
   <Layout>
