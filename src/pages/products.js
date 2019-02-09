@@ -28,16 +28,19 @@ class Product extends Component {
   }
 
   render() {
-    const { id, currency, price, name } = this.props
-    console.log(currency);
-    const priceFloat = (price/100).toFixed(2)
-    const formattedPrice = new Intl.NumberFormat('en-US', { style: 'currency', currency, }).format(priceFloat)
+    // const { id, currency, price, name } = this.props
+    // console.log(currency);
+    // const priceFloat = (price/100).toFixed(2)
+    // const formattedPrice = new Intl.NumberFormat('en-US', { style: 'currency', currency, }).format(priceFloat)
     
     return (
-      <form onSubmit={this.handleSubmit(id)}>
-        <h2>{name} ({formattedPrice})</h2>
-        <button type="submit">Buy Now!</button>
-      </form>
+      <div className="store">
+        <h1>Store coming soon...</h1>
+      </div>
+      // <form onSubmit={this.handleSubmit(id)}>
+      //   <h2>{name} ({formattedPrice})</h2>
+      //   <button type="submit">Buy Now!</button>
+      // </form>
     )
   }
 }
@@ -62,14 +65,15 @@ export default () => (
     `}
     render={data => (
       <Layout>
-        {data.allStripeSku.edges.map(({ node: sku }) => (
+        <Product />
+        {/* {data.allStripeSku.edges.map(({ node: sku }) => (
           <Product
             id={sku.id}
             currency={sku.currency}
             price={sku.price}
             name={sku.attributes.name}
           />
-        ))}
+        ))} */}
       </Layout>
     )}
   />
