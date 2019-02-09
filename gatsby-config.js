@@ -1,3 +1,5 @@
+require("dotenv").config()
+
 module.exports = {
   siteMetadata: {
     title: 'Wayne Ruff Studio',
@@ -7,6 +9,14 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     'gatsby-plugin-stripe',
+    {
+      resolve: 'gatsby-source-stripe',
+      options: {
+        objects: ['Sku'],
+        secretKey: process.env.STRIPE_SOURCE_KEY,
+        downloadFiles: true
+      },
+    },
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: 'gatsby-source-filesystem',

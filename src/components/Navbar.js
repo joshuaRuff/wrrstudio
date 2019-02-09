@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import logo from '../img/logo.jpg'
+import logo from '../img/logo.png'
 
 const Navbar = class extends React.Component {
   componentDidMount() {
@@ -52,6 +52,9 @@ const Navbar = class extends React.Component {
               </Link> */}
               <Link className="navbar-item" to="/blog">
                 Blog
+              </Link>
+              <Link className="navbar-item" to="/products">
+                Store
               </Link>
               {/* <Link className="navbar-item" to="/contact">
           Contact

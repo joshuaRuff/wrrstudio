@@ -13,9 +13,7 @@ const buttonStyles = {
 }
 
 const Checkout = class extends React.Component {
-  // Initialise Stripe.js with your publishable key.
-  // You can find your key in the Dashboard:
-  // https://dashboard.stripe.com/account/apikeys
+
   componentDidMount() {
     this.stripe = window.Stripe('pk_test_bhLgzBkskMnpxJHVld7OuL8g', {
       betas: ['checkout_beta_4'],
@@ -25,9 +23,9 @@ const Checkout = class extends React.Component {
   async redirectToCheckout(event) {
     event.preventDefault()
     const { error } = await this.stripe.redirectToCheckout({
-      items: [{ sku: 'sku_DjQJN2HJ1kkvI3', quantity: 1 }],
-      successUrl: `http://localhost:8000/page-2/`,
-      cancelUrl: `http://localhost:8000/`,
+      items: [{ sku: 'sku_ER0d932xGc0YWL', quantity: 1 }],
+      successUrl: `http://localhost:8000/about`,
+      cancelUrl: `http://localhost:8000/blog`,
     })
 
     if (error) {

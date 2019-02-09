@@ -9,6 +9,7 @@ import Content, { HTMLContent } from '../components/Content'
 export const BlogPostTemplate = ({
   content,
   contentComponent,
+  attachments,
   description,
   tags,
   title,
@@ -50,13 +51,14 @@ BlogPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
   description: PropTypes.string,
+  attachments: PropTypes.object,
   title: PropTypes.string,
   helmet: PropTypes.object,
 }
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data
-
+  console.log(post)
   return (
     <Layout>
       <BlogPostTemplate

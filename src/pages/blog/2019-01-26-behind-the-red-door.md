@@ -6,6 +6,8 @@ description: >-
   "The Red Door" and "Behind The Red Door" are two paintings that were painted
   simultaneously. In fact, many of the paper palettes used in painting "The Red
   Door" were incorporated into "Behind The Red Door".
+attachments:
+  - "/img/behindthereddoor.jpg"
 tags:
   - art
   - abstract
