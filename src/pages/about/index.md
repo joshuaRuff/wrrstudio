@@ -1,13 +1,17 @@
 ---
-templateKey: 'about-page'
-path: /about
+templateKey: about-page
 title: Meet Wayne Ruff
-attachments:
-  - "/img/about.jpg"
 ---
+Symbolism is very important to me. It is the language of the soul. I express symbolism like a preacher, letting it flow like the ocean tide coming in and going out. I call myself an Abstract Symbolic Expressionist because my work testifies to a particular meaning or purpose that exposes individual or corporate aspects and insights of our culture.
 
-![wayneruff](/img/about.jpg "Wayne Ruff")
+I usually do not plan my paintings. They flow from the inside like a daydream or vision, then I creatively interact with that flow. I grab unique insights and significant understanding from this process. I don't know if I would call it spiritual or psychological insight...they are pretty much the same to me. 
 
-Art is not about capturing the materialistic side of a subject, it's about capturing the unseen part of the subject. The essence, the emotional, the intellectual; the spirit and soul of the matter is what I'm trying to capture.
+![Garden Party](/img/gardenparty.jpg "Garden Party ")
 
-Every subject requires its own style of rendering. No two series of paintings should look alike. When I study a subject to paint I try to understand its style... How does it want to be portrayed?... What is its purpose in existing?... What message does it want to send?
+_Garden Party 16x20in_
+
+I've been painting for half a century... Starting when I was in the Navy hospital in Charleston, SC in 1971. I was being discharged for medical reasons and while waiting for my papers I painted several very abstract and symbolic paintings. I have no idea what happened to them, but I have never stopped painting. There have been prolific and dry periods and paintings have been scattered all around the country, many of them un-photographed, undocumented and unremembered.
+
+![Walking In Jerusalem](/img/walkinginjerusalem.jpg "Walking In Jerusalem")
+
+_Walking In Jerusalem 17x20in_
