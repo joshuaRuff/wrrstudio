@@ -2,6 +2,9 @@
 templateKey: about-page
 title: Meet Wayne Ruff
 ---
+
+![Wayne Ruff](/img/about.jpg "Wayne Ruff")
+
 Symbolism is very important to me. It is the language of the soul. I express symbolism like a preacher, letting it flow like the ocean tide coming in and going out. I call myself an Abstract Symbolic Expressionist because my work testifies to a particular meaning or purpose that exposes individual or corporate aspects and insights of our culture.
 
 I usually do not plan my paintings. They flow from the inside like a daydream or vision, then I creatively interact with that flow. I grab unique insights and significant understanding from this process. I don't know if I would call it spiritual or psychological insight...they are pretty much the same to me. 
