@@ -11,10 +11,10 @@ I usually do not plan my paintings. They flow from the inside like a daydream or
 
 ![Garden Party](/img/gardenparty.jpg "Garden Party ")
 
-_Garden Party 16x20in_
+_Garden Party -Mixed media Pouring. 16x20in_
 
 I've been painting for half a century... Starting when I was in the Navy hospital in Charleston, SC in 1971. I was being discharged for medical reasons and while waiting for my papers I painted several very abstract and symbolic paintings. I have no idea what happened to them, but I have never stopped painting. There have been prolific and dry periods and paintings have been scattered all around the country, many of them un-photographed, undocumented and unremembered.
 
 ![Walking In Jerusalem](/img/walkinginjerusalem.jpg "Walking In Jerusalem")
 
-_Walking In Jerusalem 17x20in_
+_Walking In Jerusalem Acrylic abstract collage. 17x20in_
