@@ -35,7 +35,7 @@ import Content, { HTMLContent } from '../components/Content'
   const { markdownRemark: post } = data	
 
    return (	
-    <Layout>	
+    <Layout mdData={data}>	
       <AboutPageTemplate	
         contentComponent={HTMLContent}	
         title={post.frontmatter.title}	
@@ -56,7 +56,9 @@ import Content, { HTMLContent } from '../components/Content'
     markdownRemark(id: { eq: $id }) {	
       html	
       frontmatter {	
-        title	
+        title
+        meta_title
+        meta_description	
       }	
     }	
   }	

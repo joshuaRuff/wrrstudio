@@ -1,6 +1,9 @@
 ---
 templateKey: about-page
 title: Meet Wayne Ruff
+meta_title: Wayne Ruff Studio
+meta_description: >-
+  Wayne Ruff Studio features artwork by Kansas City artist Wayne Ruff.
 ---
 
 ![Wayne Ruff](/img/about.jpg "Wayne Ruff")

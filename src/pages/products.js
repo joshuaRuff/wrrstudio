@@ -7,6 +7,7 @@ class Product extends Component {
   componentDidMount() {
     this.stripe = window.Stripe('pk_test_bhLgzBkskMnpxJHVld7OuL8g', {
       betas: ['checkout_beta_4'],
+      billing_address_collection: 'requried'
     })
   }
 
@@ -28,19 +29,16 @@ class Product extends Component {
   }
 
   render() {
-    // const { id, currency, price, name } = this.props
-    // console.log(currency);
-    // const priceFloat = (price/100).toFixed(2)
-    // const formattedPrice = new Intl.NumberFormat('en-US', { style: 'currency', currency, }).format(priceFloat)
+    const { id, currency, price, name } = this.props
+    console.log(currency);
+    const priceFloat = (price/100).toFixed(2)
+    const formattedPrice = new Intl.NumberFormat('en-US', { style: 'currency', currency, }).format(priceFloat)
     
     return (
-      <div className="store">
-        <h1>Store coming soon...</h1>
-      </div>
-      // <form onSubmit={this.handleSubmit(id)}>
-      //   <h2>{name} ({formattedPrice})</h2>
-      //   <button type="submit">Buy Now!</button>
-      // </form>
+      <form onSubmit={this.handleSubmit(id)}>
+        <h2>{name} {formattedPrice}</h2>
+        <button type="submit">Buy Now!</button>
+      </form>
     )
   }
 }
@@ -65,7 +63,9 @@ export default () => (
     `}
     render={data => (
       <Layout>
-        <Product />
+        <div className="store">
+          <h1>Store coming soon...</h1>
+        </div>
         {/* {data.allStripeSku.edges.map(({ node: sku }) => (
           <Product
             id={sku.id}

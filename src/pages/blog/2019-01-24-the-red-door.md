@@ -2,6 +2,9 @@
 templateKey: blog-post
 title: The Red Door
 date: 2019-01-24T15:04:10.000Z
+meta_title: Wayne Ruff Studio
+meta_description: >-
+  Wayne Ruff Studio features artwork by Kansas City artist Wayne Ruff.
 description: >-
   The Red Door" and "Behind The Red Door" are two paintings that were painted
   simultaneously. In fact, many of the paper palettes used in painting "The Red

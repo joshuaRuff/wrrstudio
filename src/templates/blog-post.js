@@ -16,7 +16,7 @@ export const BlogPostTemplate = ({
   helmet,
 }) => {
   const PostContent = contentComponent || Content
-  console.log(content, 'content here!')
+
   return (
     <section className="section">
       {helmet || ''}
@@ -58,9 +58,9 @@ BlogPostTemplate.propTypes = {
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data
-  console.log(post)
+
   return (
-    <Layout>
+    <Layout mdData={data}>
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
@@ -74,7 +74,6 @@ const BlogPost = ({ data }) => {
             />
           </Helmet>
         }
-        tags={post.frontmatter.tags}
         title={post.frontmatter.title}
       />
     </Layout>
@@ -97,8 +96,9 @@ export const pageQuery = graphql`
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
+        meta_title
+        meta_description
         description
-        tags
       }
     }
   }
