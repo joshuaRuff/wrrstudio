@@ -17,7 +17,7 @@ artwork:
     - description: Acrylic 22x22
       title: The Power of the Spoken Word
       url: img/thePowerOfTheSpokenWord
-    - description: Acrylic abstract collage on panel. 22x22in
+    - description: Acrylic abstract collage on panel. 22x22in (sold)
       title: Betrayal
       url: img/betrayal
 ---
