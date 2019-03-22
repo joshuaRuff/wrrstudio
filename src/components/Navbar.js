@@ -33,7 +33,6 @@ const Navbar = class extends React.Component {
         role="navigation"
         aria-label="main-navigation"
       >
-        <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
               <img src={logo} alt="wrrstudio" style={{ maxHeight: '3rem' }} />
@@ -48,17 +47,16 @@ const Navbar = class extends React.Component {
           <div id="navMenu" className="navbar-menu">
             <div className="navbar-start has-text-centered">
               <Link className="navbar-item" to="/about">
-                About
+                {'About'}
               </Link>
               <Link className="navbar-item" to="/blog">
-                Blog
+                {'Blog'}
               </Link>
               <Link className="navbar-item" to="/products">
-                Store
+                {'Store'}
               </Link>
             </div>
           </div>
-        </div>
       </nav>
     )
   }

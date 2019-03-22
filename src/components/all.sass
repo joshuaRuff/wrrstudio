@@ -4,6 +4,7 @@
 // wrrstudio logo brand color: #363636
 $wrrstudio-gray: #363636
 $wrrstudio-gray-invert: #CFCCD6
+$wrrstudio-dark: #0e0e0e
 
 $primary: $wrrstudio-gray
 $primary-invert: $wrrstudio-gray-invert
@@ -14,7 +15,23 @@ body
   background-color: #fafafa
   
 .navbar .navbar-menu
+  background-color: $wrrstudio-dark
   box-shadow:none !important
+
+.navbar-brand
+  background-color: $wrrstudio-dark;
+
+.navbar-item
+  color: white !important
+
+.navbar-item:hover
+  color: papayawhip !important
+  background-color: $wrrstudio-dark !important;
+
+.navbar-burger
+  color: white !important
+  margin-right: 10px
+  height: inherit !important
 
 .content .taglist
   list-style: none
