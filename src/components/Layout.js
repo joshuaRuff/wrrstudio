@@ -19,7 +19,7 @@ const TemplateWrapper = ({ children, mdData }) => {
         <meta property="og:type" content="business.business" />
         <meta property="og:title" content={frontmatter.meta_title} />
         <meta property="og:url" content="https://wrrstudio.com" />
-        <meta property="og:image" content="/img/logo.png" />
+        <link rel="icon" type="image/png" href="../img/favicon.ico" sizes="16x16" />
       </Helmet>
       <Navbar />
       <div>{children}</div>
