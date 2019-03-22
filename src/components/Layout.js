@@ -22,7 +22,7 @@ const TemplateWrapper = ({ children, mdData }) => {
         <link rel="icon" type="image/png" href="../img/favicon.ico" sizes="16x16" />
       </Helmet>
       <Navbar />
-      <div>{children}</div>
+      {children}
       <Footer />
     </React.Fragment>
   );
